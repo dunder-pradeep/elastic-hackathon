@@ -1,0 +1,29 @@
+{
+  "engineName": "study-engine",
+  "endpointBase": "https://enterprise-search-deployment-a4e5dc.ent.asia-south1.gcp.elastic-cloud.com",
+  "searchKey": "search-vfmrvawzog7ycgq1bnjdpevb",
+  "resultFields": [
+    "institution",
+    "droped",
+    "ongoing",
+    "date_established",
+    "references",
+    "name",
+    "rating",
+    "online",
+    "description",
+    "completed",
+    "attempted",
+    "id"
+  ],
+  "sortFields": [
+    "completed",
+    "droped",
+    "rating"
+  ],
+  "facets": [
+    "online",
+    "institution"
+  ],
+  "titleField": "title"
+}
